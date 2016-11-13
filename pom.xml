@@ -3,11 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>core</groupId>
-	<artifactId>Title_Validation</artifactId>
-	<version>1.2</version>
+	<artifactId>Single_Title_Validation</artifactId>
+	<!--   <version>1.2</version> -->
+	<version>${build.version}</version>
 	<packaging>jar</packaging>
 
-	<name>Title_Validation</name>
+	<name>Single_Title_Validation</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
